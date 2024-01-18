@@ -9,14 +9,15 @@
 - Directory-based database: Other database systems use directories to store their data. Inside these directories, you will find multiple files that make up the database.
 - Server-Based database: Some databases are managed by a database server, and the actual data files may be stored in a location defined by the server.
 
+### Relational database structure
+
+[A relational database][aws] stores information in tabular form, with rows and columns representing different data attributes and the various relationships between the data values.
+
+![](./assets/relational-databases.svg)
+
 ## Database management system (DBMS) and relational database management system (RDBMS)
 
 A database management system (DBMS) is a sofware that serves as an interface between the database and its end-users or programs. The most common type of DBMS is a relational database management system (RDBMS) where we store structured data, i.e., data **incorporating relations among entities and variables**. These entities and variables are organized as a set of tables with columns and rows.
-
-
-### Relational database structure
-
-![](./assets/relational-databases.svg)
 
 ## Structured Query Language (SQL)
 

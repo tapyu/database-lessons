@@ -36,7 +36,7 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 
 # NoSQL
 
-NoSQL refers to non-relational databases that don't use tables to store data. Developers store information in different types of NoSQL databases, including graphs, documents, and key-values. NoSQL databases are popular for modern applications because they are horizontally scalable. Horizontal scaling means increasing the processing power by adding more computers that run NoSQL software.
+[NoSQL][aws] refers to non-relational databases that don't use tables to store data. Developers store information in different types of NoSQL databases, including graphs, documents, and key-values. NoSQL databases are popular for modern applications because they are horizontally scalable. Horizontal scaling means increasing the processing power by adding more computers that run NoSQL software.
 
 
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language

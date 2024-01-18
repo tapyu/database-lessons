@@ -33,14 +33,14 @@
 
 No, you are not tied to a particular programming language when using databases. Most modern databases support various programming languages through standardized interfaces and drivers. The key technology enabling this flexibility is the use of standardized query languages, such as SQL (Structured Query Language). Here's how it works:
 
-1. SQL as a Standardized Interface:
+- SQL as a Standardized Interface:
   - SQL is a standardized language for interacting with relational databases. It provides a common syntax and set of operations that can be used across different database management systems (DBMS).
   - Whether you're using Python, Java, C#, or any other programming language, you can issue SQL queries to a database to perform operations like inserting data, querying, updating, or deleting records.
-1. Database Drivers and APIs:
+- Database Drivers and APIs:
   - Most databases provide specific drivers or APIs (Application Programming Interfaces) for different programming languages. These drivers act as a bridge between your application code and the database, allowing you to send SQL queries and receive results.
-1. Programming Language Agnostic:
+- Programming Language Agnostic:
   - As long as you have a database driver or library for your chosen programming language, you can interact with the database. This makes databases programming language agnostic.
-1. Common Database Connectivity Libraries:
+- Common Database Connectivity Libraries:
   - Many programming languages have standard or widely-used libraries for connecting to databases. For example:
     - Python: `sqlite3`, `psycopg2` (PostgreSQL), `mysql-connector` (MySQL), etc.
 

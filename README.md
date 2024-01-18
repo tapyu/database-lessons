@@ -23,16 +23,8 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 
 # Relational database management systems (RDBMS)
 
-|         |  Vendor |
-| ---     |   ---   |
-| `MySQL` | Oracle  |
-| `PostgreSQL` | PostgreSQL Global Development Group |
-| `SQL Server` | 	Microsoft |
-| `SQLite` |	D. Richard Hipp |
-
-### Popularity (in 2023)
-
 ![image](https://github.com/tapyu/database-lessons/assets/22801918/29b687af-9931-4536-b4cc-f6f85438b0dd)
+Data is from 2023.
 
 
 # NoSQL

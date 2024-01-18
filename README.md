@@ -14,6 +14,8 @@
 
 ---
 
+# FAQ
+
 ### I usually use pickle to save my data in Python, why would I bother about using databases instead?
 
 - **Data Structure and Querying**: Databases provide a structured way to organize and query data. With databases, you can define tables, relationships, and indexes, enabling efficient data retrieval and manipulation using SQL queries.
@@ -26,6 +28,23 @@
 - **Backup and Recovery**: Databases offer built-in mechanisms for backup and recovery. This is important for data durability and protection against data loss.
 - **Consistent Interfaces**: Databases provide standardized interfaces (SQL) that work across various database management systems, making it easier to switch between different databases if needed.
 - **Structured Schema**: Databases require a structured schema, which helps in maintaining a clear organization of your data. This is beneficial for understanding and managing the data over time.
+
+### When using databases, do I need to be tied to a particular programming language?
+
+No, you are not tied to a particular programming language when using databases. Most modern databases support various programming languages through standardized interfaces and drivers. The key technology enabling this flexibility is the use of standardized query languages, such as SQL (Structured Query Language). Here's how it works:
+
+1. SQL as a Standardized Interface:
+  - SQL is a standardized language for interacting with relational databases. It provides a common syntax and set of operations that can be used across different database management systems (DBMS).
+  - Whether you're using Python, Java, C#, or any other programming language, you can issue SQL queries to a database to perform operations like inserting data, querying, updating, or deleting records.
+1. Database Drivers and APIs:
+  - Most databases provide specific drivers or APIs (Application Programming Interfaces) for different programming languages. These drivers act as a bridge between your application code and the database, allowing you to send SQL queries and receive results.
+1. Programming Language Agnostic:
+  - As long as you have a database driver or library for your chosen programming language, you can interact with the database. This makes databases programming language agnostic.
+1. Common Database Connectivity Libraries:
+  - Many programming languages have standard or widely-used libraries for connecting to databases. For example:
+    - Python: `sqlite3`, `psycopg2` (PostgreSQL), `mysql-connector` (MySQL), etc.
+
+
 
 [aws]: https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values.
 [datacamp1]: https://www.datacamp.com/blog/is-sql-a-programming-language

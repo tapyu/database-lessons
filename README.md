@@ -27,6 +27,8 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 | ---     |   ---   |
 | `MySQL` | Oracle  |
 | `PostgreSQL` | PostgreSQL Global Development Group |
+| `SQL Server` | 	Microsoft |
+| `SQLite` |	D. Richard Hipp |
 
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [datacamp1]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start

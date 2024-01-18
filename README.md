@@ -30,6 +30,11 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 | `SQL Server` | 	Microsoft |
 | `SQLite` |	D. Richard Hipp |
 
+### Popularity (in 2023)
+
+![image](https://github.com/tapyu/database-lessons/assets/22801918/5673a64a-5db3-4b41-baab-950008ec8411)
+
+
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [datacamp1]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
 [aws]: https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values.

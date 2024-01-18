@@ -26,7 +26,6 @@ SQL was invented in the 1970s based on the relational data model. It was initial
 
 > The term SQL is pronounced ess-kew-ell or sequel.
 
-
 SQL queries and other operations take the form of commands written as statements and are aggregated into programs that enable users to add, modify or retrieve data from database tables.
 
 ## What are RDBMS?

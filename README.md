@@ -4,7 +4,7 @@ A database management system (DBMS) is a sofware that serves as an interface bet
 
 # Structured Query Language (SQL)
 
-**[SQL][aws] is a [Domain-Specific][datacamp] programming language** for storing and processing information in a relational database. [It][datacamp] is designed for managing data stored in a RDBMS using **SQL queries**. A query is nothing but a statement consisting of various SQL commands that together perform a specific task to access, manage, modify, update, control, and organize your data.
+**[SQL][aws] is a declarative, [domain-specific][datacamp] programming language** for storing and processing information in a relational database. [It][datacamp] is designed for managing data stored in a RDBMS using **SQL queries**. A query is nothing but a statement consisting of various SQL commands that together perform a specific task to access, manage, modify, update, control, and organize your data.
 
 [SQL][aws] was invented in the 1970s based on the relational data model. It was initially known as the structured English query language (SEQUEL). The term was later shortened to SQL. Oracle, formerly known as Relational Software, became the first vendor to offer a commercial SQL relational database management system.
 

@@ -1,4 +1,4 @@
-# Relational database management systems (RDBMS) & Structured Query Language (SQL)
+# Structured Query Language (SQL)
 
 ### Introduction
 
@@ -15,6 +15,12 @@
 Following this, efforts were made to create an official SQL standard in the late 1980s. SQL became a standard of the American National Standards Institute (ANSI) in 1986 and of the International Organization for Standardization (ISO) in 1987. The SQL standard has been revised multiple times since the 1980s, although the core features of the standard SQL have been stable since 1992.
 
 However, as different vendors implemented their own RDBMS, they introduced variations or extensions to the SQL language to meet specific requirements or take advantage of unique features. **Today there exists only one SQL language, but the different Relational Database Management Systems (RDBMS) have extended the original SQL standard to add their own functionalities or adapt the syntax to their own way of functioning. By doing so, they gave birth to a variety of SQL dialects.**
+
+# Relational database management systems (RDBMS)
+
+|         |  Vendor |
+| ---     |   ---   |
+| `MySQL` | Oracle  |
 
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [datacamp1]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start

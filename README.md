@@ -13,6 +13,11 @@
 
 A database management system (DBMS) is a sofware that serves as an interface between the database and its end-users or programs. The most common type of DBMS is a relational database management system (RDBMS) where we store structured data, i.e., data **incorporating relations among entities and variables**. These entities and variables are organized as a set of tables with columns and rows.
 
+
+### Relational database structure
+
+![](./assets/relational-databases.svg)
+
 ## Structured Query Language (SQL)
 
 [SQL][datacamp] is the standard programming language for interacting with relational databases. With SQL, you can query, or ask questions of, the data in a relational database. You can use SQL statements to store, update, remove, search, and retrieve information from the database. You can also use SQL to maintain and optimize database performance.

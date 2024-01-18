@@ -1,4 +1,4 @@
-# Structured Query Language (SQL)
+# Relational database management systems (RDBMS) & Structured Query Language (SQL)
 
 ### Introduction
 
@@ -10,13 +10,9 @@
 
 ### History
 
-[Edgar Frank Codd][datacamp], a British computer scientist working at IBM, published a paper called “A Relational Model of Data for Large Shared Data Banks” in 1970. This is when he invented the relational model for database management, which has served as the theoretical basis for relational databases and relational database management systems ever since. 
+[Edgar Frank Codd][datacamp], a British computer scientist working at IBM, published a paper called “A Relational Model of Data for Large Shared Data Banks” in 1970. This is when he invented the relational model for database management, which **has served as the theoretical basis for relational databases and relational database management systems (RDBMS)** ever since. 
 
-Following this, efforts were made to create an official SQL standard in the late 1980s. 
-
-SQL became a standard of the American National Standards Institute (ANSI) in 1986 and of the International Organization for Standardization (ISO) in 1987. The SQL standard has been revised multiple times since the 1980s, although the core features of the standard SQL have been stable since 1992.
-
-However, new variations kept appearing as database implementers working at different companies needed to solve new problems or work around already existing problems that were not addressed in the SQL standard. This explains why multiple SQL dialects made their appearance and still co-exist today.
+Following this, efforts were made to create an official SQL standard in the late 1980s. SQL became a standard of the American National Standards Institute (ANSI) in 1986 and of the International Organization for Standardization (ISO) in 1987. The SQL standard has been revised multiple times since the 1980s, although the core features of the standard SQL have been stable since 1992. However, new variations kept appearing as database implementers working at different companies needed to solve new problems or work around already existing problems that were not addressed in the SQL standard. This explains why multiple SQL dialects made their appearance and still co-exist today.
 
 **Today there exists only one SQL language, but the different Relational Database Management Systems (RDBMS) have extended the original SQL standard to add their own functionalities or adapt the syntax to their own way of functioning. By doing so, they gave birth to a variety of SQL dialects.**
 

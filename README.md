@@ -32,7 +32,8 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 
 ### Popularity (in 2023)
 
-![image](https://github.com/tapyu/database-lessons/assets/22801918/5673a64a-5db3-4b41-baab-950008ec8411)
+![image](https://github.com/tapyu/database-lessons/assets/22801918/29b687af-9931-4536-b4cc-f6f85438b0dd)
+
 
 # NoSQL
 

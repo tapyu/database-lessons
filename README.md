@@ -18,7 +18,7 @@ SQL became a standard of the American National Standards Institute (ANSI) in 198
 
 However, new variations kept appearing as database implementers working at different companies needed to solve new problems or work around already existing problems that were not addressed in the SQL standard. This explains why multiple SQL dialects made their appearance and still co-exist today.
 
-**Today there exists only one SQL language, but the different Relational Database Management Systems have extended the original SQL standard to add their own functionalities or adapt the syntax to their own way of functioning. By doing so, they gave birth to a variety of SQL dialects.**
+**Today there exists only one SQL language, but the different Relational Database Management Systems (RDBMS) have extended the original SQL standard to add their own functionalities or adapt the syntax to their own way of functioning. By doing so, they gave birth to a variety of SQL dialects.**
 
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [datacamp1]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start

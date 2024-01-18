@@ -17,7 +17,7 @@
 ### I usually use pickle to save my data in Python, why would I bother about using databases instead?
 
 - **Data Structure and Querying**: Databases provide a structured way to organize and query data. With databases, you can define tables, relationships, and indexes, enabling efficient data retrieval and manipulation using SQL queries.
-- Data Integrity and Consistency: Databases enforce data integrity through features like constraints, unique keys, and referential integrity. This ensures that the data remains consistent and adheres to predefined rules.
+- **Data Integrity and Consistency**: Databases enforce data integrity through features like constraints, unique keys, and referential integrity. This ensures that the data remains consistent and adheres to predefined rules.
 - **Concurrency and Transactions**: Databases support concurrent access to data and provide mechanisms like transactions to maintain consistency in case of failures. This is crucial for applications with multiple users or concurrent processes.
 - **Scalability**: Databases are designed to scale with increasing amounts of data and users. They offer features like sharding, replication, and clustering to handle growing workloads.
 - **Search and Indexing**: Databases support indexing mechanisms that significantly speed up data retrieval. This is particularly important when dealing with large datasets.

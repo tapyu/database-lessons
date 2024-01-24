@@ -6,11 +6,21 @@
 - Directory-based database: Other database systems use directories to store their data. Inside these directories, you will find multiple files that make up the database.
 - Server-Based database: Some databases are managed by a database server, and the actual data files may be stored in a location defined by the server.
 
+## Advantage of using databases
+
+TODO: kdnuggets
+
+## Types of databases
+
 ### Relational database structure
 
 [A relational database][aws] stores information in tabular form, with rows and columns representing different data attributes and the various **relationships between the data values**.
 
 ![](./assets/relational-databases.svg)
+
+### NoSQL databases
+
+TODO: kdnuggets
 
 ---
 
@@ -48,3 +58,4 @@ No, you are not tied to a particular programming language when using databases. 
 
 [aws]: https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values.
 [datacamp1]: https://www.datacamp.com/blog/is-sql-a-programming-language
+[kdnuggets]: https://www.kdnuggets.com/introduction-to-databases-in-data-science

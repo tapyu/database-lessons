@@ -21,15 +21,23 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 - As RDBMS were evolving over the time, different variations of SQL were created, thus forming the SQL dialects.
 - When you use an RDBMS, you typically write SQL statements to define the structure of the database, query and manipulate data, and control access to the database.
 
-# Relational database management systems (RDBMS)
+---
+
+# Database management systems (DBMS)
+
+## Relational database management systems (RDBMS)
 
 ![image](https://github.com/tapyu/database-lessons/assets/22801918/29b687af-9931-4536-b4cc-f6f85438b0dd)
 Data is from 2023.
 
 
-# NoSQL
+## NoSQL
 
 [NoSQL][aws] refers to non-relational databases that don't use tables to store data. Developers store information in different types of NoSQL databases, including graphs, documents, and key-values. NoSQL databases are popular for modern applications because they are horizontally scalable. Horizontal scaling means increasing the processing power by adding more computers that run NoSQL software.
+
+## Time Series Databases
+
+TODO: kdnuggets
 
 # Database for Machine Learning
 

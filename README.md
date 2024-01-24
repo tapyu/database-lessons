@@ -2,10 +2,26 @@
 
 TODO: https://www.techtarget.com/searchdatamanagement/definition/database-management-system
 
+## Types of databases
+
 ## Relational database management systems (RDBMS)
+
+[A relational database][aws] stores information in tabular form, with rows and columns representing different data attributes and the various **relationships between the data values**.
+
+
+![](./assets/relational-databases.svg)
+
+
+Some popular RDBMS:
 
 ![image](https://github.com/tapyu/database-lessons/assets/22801918/29b687af-9931-4536-b4cc-f6f85438b0dd)
 Data is from 2023.
+
+
+### NoSQL databases
+
+TODO: https://www.kdnuggets.com/introduction-to-databases-in-data-science
+
 
 
 ## NoSQL

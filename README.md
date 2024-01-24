@@ -47,6 +47,12 @@ TODO: https://www.techtarget.com/searchdatamanagement/definition/database-manage
 
 TODO: https://www.techtarget.com/searchdatamanagement/definition/database-management-system
 
+# Domain-specific databases
+
 ## Time Series Databases
 
-TODO: kdnuggets
+TODO: https://www.kdnuggets.com/introduction-to-databases-in-data-science
+
+## Databases for artificial intelligence
+
+TODO: https://www.superduperdb.com/

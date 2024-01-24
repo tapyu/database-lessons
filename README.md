@@ -21,6 +21,10 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 - As RDBMS were evolving over the time, different variations of SQL were created, thus forming the SQL dialects.
 - When you use an RDBMS, you typically write SQL statements to define the structure of the database, query and manipulate data, and control access to the database.
 
+## SQL commands and syntax
+
+TODO: techtarget
+
 ---
 
 # Database management systems (DBMS)

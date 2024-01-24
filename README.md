@@ -11,18 +11,6 @@
 TODO: https://www.kdnuggets.com/introduction-to-databases-in-data-science
 https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system
 
-## Types of databases
-
-### Relational database structure
-
-[A relational database][aws] stores information in tabular form, with rows and columns representing different data attributes and the various **relationships between the data values**.
-
-![](./assets/relational-databases.svg)
-
-### NoSQL databases
-
-TODO: kdnuggets
-
 ---
 
 # FAQ

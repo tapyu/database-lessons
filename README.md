@@ -1,6 +1,6 @@
 # Database management systems (DBMS)
 
-TODO: https://www.techtarget.com/searchdatamanagement/definition/database-management-system
+TODO: https://www.techtarget.com/searchdatamanagement/definition/database-management-system https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system
 
 ## Types of databases
 

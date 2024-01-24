@@ -55,7 +55,9 @@ No, you are not tied to a particular programming language when using databases. 
     - Python: `sqlite3`, `psycopg2` (PostgreSQL), `mysql-connector` (MySQL), etc.
 
 
-
 [aws]: https://aws.amazon.com/what-is/sql/#:~:text=Structured%20query%20language%20(SQL)%20is,relationships%20between%20the%20data%20values.
+[datacamp]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start
 [datacamp1]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [kdnuggets]: https://www.kdnuggets.com/introduction-to-databases-in-data-science
+[digitalocean]: https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+[techtarget]: https://www.techtarget.com/searchdatamanagement/definition/SQL

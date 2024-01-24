@@ -25,24 +25,6 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 
 TODO: techtarget
 
----
-
-# Database management systems (DBMS)
-
-## Relational database management systems (RDBMS)
-
-![image](https://github.com/tapyu/database-lessons/assets/22801918/29b687af-9931-4536-b4cc-f6f85438b0dd)
-Data is from 2023.
-
-
-## NoSQL
-
-[NoSQL][aws] refers to non-relational databases that don't use tables to store data. Developers store information in different types of NoSQL databases, including graphs, documents, and key-values. NoSQL databases are popular for modern applications because they are horizontally scalable. Horizontal scaling means increasing the processing power by adding more computers that run NoSQL software.
-
-## Time Series Databases
-
-TODO: kdnuggets
-
 # Database for Machine Learning
 
 The choice of a database for Machine Learning (ML) datasets depends on various factors, including the nature of the data, the size of the dataset, the types of queries or analyses you need to perform, and the requirements of your machine learning workflow. Here are some considerations for selecting a suitable database for ML datasets:

@@ -23,21 +23,7 @@ However, as different vendors implemented their own RDBMS, they introduced varia
 
 ## SQL commands and syntax
 
-TODO: techtarget
-
-# Database for Machine Learning
-
-The choice of a database for Machine Learning (ML) datasets depends on various factors, including the nature of the data, the size of the dataset, the types of queries or analyses you need to perform, and the requirements of your machine learning workflow. Here are some considerations for selecting a suitable database for ML datasets:
-
-- Size and Structure of the Dataset: If your ML dataset is structured and fits well into tabular formats, a relational database like PostgreSQL or MySQL may be appropriate. These databases are well-suited for structured data with defined relationships.
-- Flexibility and Schema-less Datasets: For datasets with a more flexible or schema-less structure, NoSQL databases like MongoDB or Elasticsearch might be suitable. They can handle semi-structured or unstructured data, making them flexible for diverse data types.
-- Scalability: If your ML dataset is expected to grow significantly in size, consider databases with good scalability features. NoSQL databases like Apache Cassandra or Amazon DynamoDB are designed for horizontal scalability, allowing them to handle large datasets.
-- Complex Queries and Analytics: For complex queries and advanced analytics, a database with strong querying capabilities is essential. Both relational databases (with SQL) and certain NoSQL databases (e.g., Elasticsearch) offer powerful query languages for analytics.
-- Data Versioning and Lineage: If tracking data versioning and lineage is crucial for your ML workflow, consider using databases that support these features. Some version control systems or specialized databases may provide mechanisms for managing data versions.
-- Data Preprocessing and Transformation: Databases that support efficient data preprocessing and transformation can streamline your ML pipeline. Apache Spark, which can work with various storage systems, is commonly used for large-scale data processing and transformation.
-- Integration with ML Frameworks: Consider how well the database integrates with your chosen ML framework. Some ML frameworks have connectors or support for specific databases, making data loading and manipulation more seamless.
-- Cloud vs. On-Premises: If you are working in a cloud environment, consider cloud-native databases that integrate well with cloud services. Services like Amazon Aurora, Google Cloud Bigtable, or Azure Cosmos DB are cloud-managed databases suitable for ML workloads.
-It's important to note that in many ML workflows, data is often preprocessed and transformed before being fed into machine learning algorithms. As a result, the choice of a database is just one part of the overall data management strategy in an ML pipeline. The specific requirements of your ML project will guide the selection of the most suitable database for your needs.
+TODO: https://www.techtarget.com/searchdatamanagement/definition/SQL
 
 [datacamp]: https://www.datacamp.com/blog/is-sql-a-programming-language
 [datacamp1]: https://www.datacamp.com/blog/sql-server-postgresql-mysql-whats-the-difference-where-do-i-start

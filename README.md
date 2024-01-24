@@ -8,7 +8,8 @@
 
 ## Advantage of using databases
 
-TODO: kdnuggets
+TODO: https://www.kdnuggets.com/introduction-to-databases-in-data-science
+https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system
 
 ## Types of databases
 
@@ -61,3 +62,4 @@ No, you are not tied to a particular programming language when using databases. 
 [kdnuggets]: https://www.kdnuggets.com/introduction-to-databases-in-data-science
 [digitalocean]: https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
 [techtarget]: https://www.techtarget.com/searchdatamanagement/definition/SQL
+[techtarget1]: https://www.techtarget.com/searchdatamanagement/definition/RDBMS-relational-database-management-system
